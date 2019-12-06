@@ -1,4 +1,4 @@
-# **NPSeed** 〜The NPC Seed〜
+# NPSeed 〜The NPC Seed〜
 ### Library for your own character and NPCs.
 ## **Features**
 - ## *Character Appearance Genaration*
@@ -16,6 +16,4 @@
 ### Release: 0.0.0
 ### Beta: 0.0.0
 ### Development: 0.0.1
-<br><br>
-
 ## **Quick Start**
