@@ -21,7 +21,7 @@
     - Other usable item generation その他アイテム生成
 ## Version バージョン
 ### Release: 0.0.0 -リリース
-### Beta: 0.0.0 -ベータ
-### Development: 0.0.7 -開発中
+### Beta: 0.0.7 -ベータ
+### Development: 0.0.8 -開発中
 ## Quick Start
 Writing now...
