@@ -1,4 +1,9 @@
 # NPSeed 〜The NPC Seed〜
+[![Version](https://img.shields.io/badge/Version-0.0.0-green)](https://github.com/50m-regent/NPSeed)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/50m-regent/NPSeed)
+[![Python supported versions](https://img.shields.io/badge/Python-2.7%2C%203.8-blueviolet)](https://www.python.org/)
+[![Lisence](https://img.shields.io/badge/lisence-MIT-blue)](https://opensource.org/licenses/MIT)
+[![Twitter](https://img.shields.io/badge/Twitter-%4050m__regent-informational)](https://twitter.com/50m_regent)
 ### Library for your own character and NPCs.
 ### キャラクターやNPCの作成に使えるライブラリ
 ## Features 機能
@@ -17,6 +22,6 @@
 ## Version
 ### Release: 0.0.0
 ### Beta: 0.0.0
-### Development: 0.0.4
+### Development: 0.0.5
 ## Quick Start
 Writing now...
