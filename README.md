@@ -19,9 +19,9 @@
 - ## *Item Generation アイテム生成*
     - Character's equipment generation ゲーム作成などで使える装備生成
     - Other usable item generation その他アイテム生成
-## Version
-### Release: 0.0.0
-### Beta: 0.0.0
-### Development: 0.0.5
+## Version バージョン
+### Release: 0.0.0 -リリース
+### Beta: 0.0.0 -ベータ
+### Development: 0.0.6 -開発中
 ## Quick Start
 Writing now...
