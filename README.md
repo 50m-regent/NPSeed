@@ -22,6 +22,6 @@
 ## Version バージョン
 ### Release: 0.0.0 -リリース
 ### Beta: 0.0.7 -ベータ
-### Development: 0.0.8 -開発中
+### Development: 0.0.9 -開発中
 ## Quick Start
 Writing now...
